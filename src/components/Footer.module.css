@@ -1,0 +1,11 @@
+.container {
+    margin: auto;
+    background-color: #212529;
+    color: #fff;
+    text-align: center;
+    padding: 25px;
+}
+
+.texto {
+    margin: auto;
+}

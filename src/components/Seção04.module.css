@@ -1,0 +1,54 @@
+.container {
+    background-image: url("../assets/fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 575px;
+    text-align: left;
+    padding-top: 80px;
+    padding-left: 100px;
+    font-size: 30px;
+    color: #fff;
+    background-position: "top"
+}
+
+.botao {
+    background-color: transparent;
+    border-radius: 15px;
+    color: #fff;
+    border-color: #fff;
+    border: 1px solid white;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.botao:hover {
+    color: #fff;
+    background-color:  #ff66c4;
+    border-color: #fff;
+}
+
+@media (max-width:767px) {
+    h1 {
+        font-size: 40px;
+        margin-bottom: 5px;
+    }
+
+    .container {
+        background-size: cover;
+        background-position: bottom;
+        background-repeat: no-repeat;
+    }
+}
+
+@media (max-width:480px) {
+    h1 {
+        font-size: 30px;
+        margin-bottom: 0;
+    }
+
+    .container {
+        height: 380px;
+    }
+}

@@ -1,0 +1,39 @@
+.container {
+    background-color: #ff66c4;
+    text-align: center;
+    padding: 140px 60px;
+}
+
+.titulo {
+    font-size: 50px;
+    color: #fff;
+    margin-top: 0;
+}
+
+.instagram {
+    width: 70px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+.facebook {
+    width: 70px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+@media (max-width:767px) {
+    .container {
+        padding: 140px 40px ;
+    }
+
+    .titulo {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:480px) {
+    .titulo {
+        font-size: 40px;
+    }
+}
