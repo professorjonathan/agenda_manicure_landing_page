@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/agenda_manicure_landing_page/static/css/main.815f2922.css",
+    "main.js": "/agenda_manicure_landing_page/static/js/main.0c1e4549.js",
+    "static/media/video.mp4": "/agenda_manicure_landing_page/static/media/video.ac7da0e82e8fc9eb3490.mp4",
+    "static/media/google.png": "/agenda_manicure_landing_page/static/media/google.1fb0918860b2abb01e51.png",
+    "static/media/fundo.jpg": "/agenda_manicure_landing_page/static/media/fundo.b119598376206ca11855.jpg",
+    "static/media/celular.png": "/agenda_manicure_landing_page/static/media/celular.321040e14881fc153e5a.png",
+    "static/media/instagram.png": "/agenda_manicure_landing_page/static/media/instagram.2d5cedd576ca1a740d7c.png",
+    "static/media/apple.png": "/agenda_manicure_landing_page/static/media/apple.c023295053617f234b87.png",
+    "static/media/facebook.png": "/agenda_manicure_landing_page/static/media/facebook.213bd97b9a81d06529c2.png",
+    "index.html": "/agenda_manicure_landing_page/index.html",
+    "main.815f2922.css.map": "/agenda_manicure_landing_page/static/css/main.815f2922.css.map",
+    "main.0c1e4549.js.map": "/agenda_manicure_landing_page/static/js/main.0c1e4549.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.815f2922.css",
+    "static/js/main.0c1e4549.js"
+  ]
+}
